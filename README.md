@@ -3,6 +3,9 @@ Raghu - Gujarati Font
 
 Original Project Page : http://www.cdacmumbai.in/projects/indix/n_download.shtml.
 
+Technical Details
+=================
+* Glyphs count: 743
 
 Creating Web Fonts
 ==================
